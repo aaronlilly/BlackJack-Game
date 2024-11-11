@@ -1,7 +1,7 @@
 # NewBlackJack
 
-https://aaronlilly.github.io/NewBlackJack/
+https://aaronlilly.github.io/BlackJack-Game/
 
 
 
-https://aaronlilly.github.io/NewBlackJack/playGame.html
+https://aaronlilly.github.io/BlackJack-Game/playGame.html
